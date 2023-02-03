@@ -125,7 +125,7 @@ function DashboardContent(props) {
               noWrap
               sx={{ flexGrow: 1 }}
             >
-              Hi {props.UserName}, Welcome to Verizon Dashboard...!!!
+              Hi {props.UserName}, Welcome to Verizon Dashboard....!!
             </Typography>
             <IconButton color="inherit">
               <Badge badgeContent={4} color="secondary">
